@@ -5,6 +5,7 @@ import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { ShopPage } from '../pages/shop/shop';
 import { TabsPage } from '../pages/tabs/tabs';
+import { GamblePage } from '../pages/gamble/gamble';
 
 @Component({
   templateUrl: 'app.html'
