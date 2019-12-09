@@ -1,9 +1,11 @@
+import { Component } from '@angular/core';
+
 import { AboutPage } from '../about/about';
 import { ContactPage } from '../contact/contact';
 import { HomePage } from '../home/home';
 import { ShopPage } from '../shop/shop';
 
-import { Component } from '@angular/core';
+
 
 @Component({
   templateUrl: 'tabs.html'
