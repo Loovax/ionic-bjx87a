@@ -1,14 +1,13 @@
-import { Component } from '@angular/core';
+import { AboutPage } from '../about/about';
+import { ContactPage } from '../contact/contact';
+import { HomePage } from '../home/home';
+import { ShopPage } from '../shop/shop';
 
+import { Component } from '@angular/core';
 
 @Component({
   templateUrl: 'tabs.html'
-  
 })
-import { AboutPage } from '../pages/about/about';
-import { ContactPage } from '../pages/contact/contact';
-import { HomePage } from '../pages/home/home';
-import { ShopPage } from '../pages/shop/shop';
 
 export class TabsPage {
 
