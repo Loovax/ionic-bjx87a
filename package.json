@@ -1,6 +1,6 @@
 {
   "name": "ionic-bjx87a",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@angular/common": "5.2.9",
