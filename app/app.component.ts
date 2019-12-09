@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { Platform } from 'ionic-angular';
-
+import { AboutPage } from '../pages/about/about';
+import { ContactPage } from '../pages/contact/contact';
+import { HomePage } from '../pages/home/home';
+import { HomePage as ShopPage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 
 @Component({
